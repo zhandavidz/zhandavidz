@@ -1,6 +1,6 @@
 # Hi, I'm [@zhandavidz](https://github.com/zhandavidz)
 
-I am currently a high school student (AHS '22). I'm interested in computer science in general, and at the moment I'm particularly interested in data science and AI, but I'm still learning the ropes! 
+I am currently a high school student (AHS '22). I'm interested in computer science in general, and at the moment I'm particularly interested in data science, AI, and game development.
 
 You can learn more about me and contact me at [davidzhan.com](http://davidzhan.com)
 
