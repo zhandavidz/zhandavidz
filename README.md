@@ -1,8 +1,8 @@
 # Hi, I'm [@zhandavidz](https://github.com/zhandavidz)
 
-I am currently a high school student (AHS '22). I'm interested in computer science in general, and at the moment I'm particularly interested in data science, AI, and game development.
+I'm a first year Computer Science major at UMass Amherst '25. At the moment I'm particularly interested in data science, AI, and game development, and I am actively looking for internships.
 
-You can learn more about me and contact me at [davidzhan.com](http://davidzhan.com)
+You can learn more about me and contact me at my [LinkedIn](https://www.linkedin.com/in/zhandavidz) or at my website: [davidzhan.com](http://davidzhan.com)
 
 <!---
 - 👋 Hi, I’m @zhandavidz
