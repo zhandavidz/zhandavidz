@@ -1,6 +1,6 @@
 # Hi, I'm [@zhandavidz](https://github.com/zhandavidz)
 
-I'm a Computer Science major at UMass Amherst '25. At the moment I'm particularly interested in web development, AI/ML, and game development, and I am actively looking for internships.
+I'm a Master's student in Computer Science at UMass Amherst '26. At the moment I'm particularly interested in devops, web development, AI/ML, and game development, and I am actively looking for internships.
 
 You can learn more about me and contact me at my [LinkedIn](https://www.linkedin.com/in/zhandavidz) or at my website: [davidzhan.com](https://davidzhan.com)
 
